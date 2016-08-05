@@ -1,4 +1,3 @@
-layout_spectrum: 0.5173049573786557
 typography_spectrum: 0.1420054438058287
 color:
   brandStrength: 0.3715185234323144
@@ -11,13 +10,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.5173049573786557
+logo: null
 name: Ragly Travel Pty Ltd
-title: |-
-  ?eb 
-  rehtar
-   
-  uoy
-  dluow
-
-
-   erehW
+favicon: null
+title: Where would you rather be?
