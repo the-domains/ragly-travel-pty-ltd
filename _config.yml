@@ -11,7 +11,12 @@ color:
     - '#3E363F'
     - '#DD403A'
 layout_spectrum: 0.5173049573786557
-logo: null
+author:
+  name: Alan Leung
+  email: aleung@raglytravel.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4ff0a75-6097-40b7-ac3b-3bf509af362d.gif
 name: Ragly Travel Pty Ltd
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9cc3abc-2472-4496-baf5-6cceed7fd2c0.ico
 title: Where would you rather be?
