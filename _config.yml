@@ -17,6 +17,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4ff0a75-6097-40b7-ac3b-3bf509af362d.gif
 name: Ragly Travel Pty Ltd
+navigation:
+  - name: Welcome
+    url: 'http://www.raglytravel.com.au'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9cc3abc-2472-4496-baf5-6cceed7fd2c0.ico
 title: Where would you rather be?
